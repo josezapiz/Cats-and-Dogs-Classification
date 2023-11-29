@@ -1,5 +1,5 @@
 # Cats-and-Dogs-Classification
-A personal machine learning classification project using Tensorflow with Python in Google Collabs<br>
+A personal machine learning classification project using Tensorflow 2.0, NumPy, Pandas with Python in Google Collabs<br>
 
 
 ## 5x5 grid with the trained model's predictions on a test dataset
