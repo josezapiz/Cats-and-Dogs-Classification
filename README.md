@@ -3,7 +3,7 @@ A personal machine learning classification project using the following:
 + Tensorflow 2.0
 + NumPy
 + Pandas
-+ Scikit-learnn
++ Scikit-learn
 + Matplotlib
 
   
